@@ -1,5 +1,5 @@
 # Implementation for KNN serach by kd-tree and ball-tree
-The datasets refer to LIBSVM["https://www.csie.ntu.edu.tw/~cjlin/libsvmtools/datasets/"].
+The datasets refer to [LIBSVM](https://www.csie.ntu.edu.tw/~cjlin/libsvmtools/datasets/).
 
 Because using complete test dataset will cost long time to get results, here just take some records as the test dataset.
 
