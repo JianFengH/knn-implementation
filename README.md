@@ -3,6 +3,12 @@ The datasets refer to [LIBSVM](https://www.csie.ntu.edu.tw/~cjlin/libsvmtools/da
 
 Because using complete test dataset will cost long time to get results, here just take some records as the test dataset.
 
+## Usage:  
+```python kdtree.py```  
+
+```python balltree.py```
+
+
 ## Table 1: Result from implementation by kd-tree (k=3)
 | Dataset | Building Time (s) | Searching Time (s) | Number of Calculations|
 | - | :-: |:-: |:-: |
